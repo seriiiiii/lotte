@@ -1,0 +1,119 @@
+*{margin:0; padding:0;
+	list-style:none;
+	font-family:"nanumgothic";
+	font-weight:500;
+	font-size:15px;
+	color:#000;}
+a{text-decoration:none;
+	color:inherit;}
+button{cursor:pointer;}
+
+.clear{clear:both;
+		display:block;
+		content:"";}
+.btn_box li{cursor:pointer;}
+
+#wrap{width:1400px;
+	margin:0 auto;}
+
+header{width:1400px;
+		height:200px;}
+#lang, #logo, #login{float:left;
+					position:absolute;
+					top:0;}
+#lang{width:200px;
+		height:10px;
+		margin-top:53px;
+		margin-left:100px;}
+#lang li{width:20px;
+			font-size:15px;
+			float:left;}
+#lang li:nth-child(2n){padding-left:10px;}
+#logo{width:200px;
+		height:40px;
+		margin-left:673px;
+		margin-top:33px;}
+#login{width:55px;
+		font-size:15px;
+		margin-top:53px;
+		margin-left:1245px;}
+nav{width:1400px;
+	height:30px;
+	position:absolute;
+	top:0;
+	margin-top:150px;
+	text-align:center;
+	margin-left:160px;}
+.nav2 h2{border-bottom:1px solid red;
+		font-weight:600;}
+.submenu li:nth-child(1) h2{border-bottom:1px solid red;
+							font-weight:600;}
+
+.nav li{margin-left:70px;
+		float:left;}
+.nav li:hover{border-bottom:1px solid red;}
+#back{height:500px;}
+#back h3{position:absolute;
+		margin-top:140px;
+		font-size:35px;
+		font-weight:600;
+		color:#fff;
+		margin-left:635px;}
+#back span{position:absolute;
+		margin-top:-220px;
+		margin-left:410px;
+		z-index:3;
+		width:630px;
+		color:#fff;
+		font-size:20px;
+		font-weight:600;
+		line-height:40px;
+		text-align:center;}
+.submenu{position:absolute;
+		top:0;
+		margin-top:223px;
+		margin-left:370px;
+		}
+.submenu li{float:left;
+		margin-left:70px;
+		}
+.submenu li h2{color:#fff;
+			font-size:18px;
+			}
+.submenu li:hover h2{border-bottom:1px solid red;}
+footer li{float:left;}
+ footer{height:240px;
+		background-color:black;}
+.familysite{margin-top:90px;
+			margin-left:165px;}
+.f_logo{left:0;
+		position:absolute;
+		margin-left:929px;
+		margin-top:50px;}
+.sns li{margin-left:20px;
+		margin-top:155px;}
+.sns{margin-left:625px;
+	position:absolute;}
+.sns li:nth-child(1){margin-left:0px;}
+.copy{margin-top:130px;
+	position:absolute;
+	margin-left:165px;
+	width:250px;}
+.copy span{color:#616161;
+		font-size:12px;
+		font-weight:600;
+		line-height:30px;}
+.under{position:absolute;
+		margin-top:130px;
+		margin-left:957px;
+		text-align:right;}
+.under span{color:#616161;
+		font-size:12px;
+		font-weight:600;
+		line-height:30px;}
+#line5{margin-top:70px;
+		margin-left:165px;
+		position:absolute;}
+#line6{margin-top:70px;
+		margin-left:1000px;
+		position:absolute;}
