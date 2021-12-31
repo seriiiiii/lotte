@@ -638,24 +638,25 @@ nav{width:970px;
   .slide__1::-webkit-scrollbar-thumb:hover {
 	background-color: #606f82;
   }
-
 .familysite{width: 200px;
     height: 30px;
     margin-left: 10%;
-    margin-top: 15px;
-    float: left;}
+    margin-top: 50px;
+    float: left;
+}
 .f_logo{ position: absolute;
     left: 50%;
     margin-left: -20px;
-    margin-top: 50px;}
+    margin-top: 20px;}
 .sns{
 	left: 50%;
     position: absolute;
     margin-left: -80px;
+    margin-top: 30px;
 }	
 .sns ul li:nth-child(1){margin-left:0px;}
 .copy{
-    width: 320px;
+	width: 320px;
     line-height: 30px;
     font-size: 12px;
     font-weight: 600;
@@ -664,7 +665,7 @@ nav{width:970px;
     float: left;
     left: 0;
     margin-left: 10%;
-    margin-top: 50px;
+    margin-top: 90px;
     position: absolute;}
 .copy span{font-size:12px;
 		font-weight:600;
@@ -681,13 +682,13 @@ float:left;}
     position: relative;
     overflow: hidden;
     height: 250px;}
-.under{    width: 330px;
+.under{width: 330px;
     line-height: 30px;
     text-align: right;
     float: right;
     float: right;
     margin-right: 10%;
-	margin-top:20px;
+    margin-top: 60px;
 }
 .under span{font-size:12px;
 		font-weight:600;
@@ -709,6 +710,7 @@ margin-top:-20px;}
  .myContent{
         height:240px;
 		overflow:hidden;
+		height:100%;
 		background-color:black;
 		top:0;
       }
