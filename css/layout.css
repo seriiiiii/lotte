@@ -644,11 +644,10 @@ nav{width:970px;
     margin-left: 10%;
     margin-top: 15px;
     float: left;}
-.f_logo{    width: 200px;
+.f_logo{ position: absolute;
     left: 50%;
-    margin-left: -100px;
-	margin-top:-30px;
-	position:relative;}
+    margin-left: -20px;
+    margin-top: 50px;}
 .sns{
 	left: 50%;
     position: absolute;

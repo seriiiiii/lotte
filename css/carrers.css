@@ -86,10 +86,10 @@ footer li{float:left;}
 		background-color:black;}
 .familysite{margin-top:90px;
 			margin-left:165px;}
-.f_logo{left:0;
-		position:absolute;
-		margin-left:929px;
-		margin-top:50px;}
+.f_logo{position: absolute;
+    left: 50%;
+    margin-left: -20px;
+    margin-top: 50px;}
 .sns li{margin-left:20px;
 		margin-top:155px;}
 .sns{margin-left:625px;
